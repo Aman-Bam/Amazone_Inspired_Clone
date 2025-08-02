@@ -4,7 +4,7 @@ A fully responsive, feature-rich **Amazon Clone** built using **HTML**, **CSS**,
 
 ![Amazon Clone Screenshot]
 
-> 🔗 **Live Demo:** [Click Here to View]( )
+> 🔗 **Live Demo:** [Click Here to View](https://aman-bam.github.io/Amazone_Inspired_Clone/)
 
 ![Screenshot 2025-07-02 213234](https://github.com/user-attachments/assets/a404b059-6d89-44de-9412-0aa2d017e36a)
 ![Screenshot 2025-07-02 213246](https://github.com/user-attachments/assets/2ae5aa61-951b-489c-b651-8ddc8231d3b6)
